@@ -3,21 +3,21 @@
 
 ### Programming
 
-Leet code https://leetcode.com
+[Leet code](https://leetcode.com)
 
-Browser IDE https://repl.it
+[Browser IDE](https://repl.it)
 
-Best css flexbox explanation https://css-tricks.com/snippets/css/a-guide-to-flexbox
+[Best css flexbox explanation](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
 
 
 
 ### Education
 
-Graduate school https://www.thegradcafe.com
+[Graduate school](https://www.thegradcafe.com)
 
 ### 撸毛
 
-加国理财 https://www.canadianrewards.org
+[加国理财](https://www.canadianrewards.org)
 
 <!--
 **Yangfan999/Yangfan999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
