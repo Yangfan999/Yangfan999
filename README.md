@@ -15,6 +15,10 @@
 
 [Graduate school](https://www.thegradcafe.com)
 
+[Pay your tuition fee by credit card](https://apps.plastiq.com)
+
+[UofT cs undergraduate TA application](https://taships.iit.artsci.utoronto.ca/csc/applications)
+
 ### 撸毛
 
 [加国理财](https://www.canadianrewards.org)
