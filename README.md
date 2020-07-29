@@ -1,5 +1,13 @@
 ### Hi there 👋
+
+I am a fourth year UofT cs student, I am living with my beatiful girl frient and our cute cat *BAO*
+![BAOBAO](https://user-images.githubusercontent.com/33362849/88762132-966b1880-d13e-11ea-8b65-e742be1b82fd.jpg)
 # Here are some of my favorite web sites.
+
+
+### Utility
+
+[Check your password](https://haveibeenpwned.com)
 
 ### Programming
 
@@ -8,7 +16,6 @@
 [Browser IDE](https://repl.it)
 
 [Best css flexbox explanation](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
-
 
 
 ### Education
@@ -22,6 +29,12 @@
 ### 撸毛
 
 [加国理财](https://www.canadianrewards.org)
+
+[Award hacker](https://www.awardhacker.com)
+
+### League of Legends
+
+[OP.GG](https://na.op.gg)
 
 <!--
 **Yangfan999/Yangfan999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
