@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I am a fourth year UofT cs student, I am living with my beatiful girl frient and our cute cat *BAO*
+I am a fourth year UofT cs student, I am living with my beautiful girl frient and our cute cat *BAO*
 ![BAOBAO](https://user-images.githubusercontent.com/33362849/88762132-966b1880-d13e-11ea-8b65-e742be1b82fd.jpg)
+
+
 # Here are some of my favorite web sites.
 
 
