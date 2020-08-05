@@ -19,7 +19,7 @@ I am a fourth year UofT cs student, I am living with my beautiful girlfriend and
 
 [Best css flexbox explanation](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
 
-[Visualize how algorith works](https://visualgo.net/en)
+[Visualgo](https://visualgo.net/en)
 
 ### Education
 
