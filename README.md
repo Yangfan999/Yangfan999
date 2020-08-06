@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a fourth year UofT cs student, I am living with my beautiful girlfriend and our cute cat *BAO*
-![BAOBAO](https://user-images.githubusercontent.com/33362849/88762132-966b1880-d13e-11ea-8b65-e742be1b82fd.jpg)
+![BAOBAO](https://user-images.githubusercontent.com/33362849/89501476-68668380-d791-11ea-997a-6a68589fb603.jpg)
 
 
 # Here are some of my favorite web sites.
