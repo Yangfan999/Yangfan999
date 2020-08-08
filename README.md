@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I am a fourth year UofT cs student, I am living with my beautiful girlfriend and our cute cat *BAO*
+🔭 I’m currently doing my fourth year at uoft.
+🌱 Doing my parttime intern at Watson Machine Learning@IBM
+
+⚡ Here is my cute cat *BAO*
+
 ![BAOBAO](https://user-images.githubusercontent.com/33362849/89501476-68668380-d791-11ea-997a-6a68589fb603.jpg)
 
 
@@ -44,7 +48,6 @@ I am a fourth year UofT cs student, I am living with my beautiful girlfriend and
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
