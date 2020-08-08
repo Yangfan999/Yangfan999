@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently doing my fourth year at uoft.
+
 🌱 Doing my parttime intern at Watson Machine Learning@IBM
 
 ⚡ Here is my cute cat *BAO*
