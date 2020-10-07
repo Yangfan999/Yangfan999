@@ -6,7 +6,7 @@
 
 ⚡ Here is my cute cat *BAO*
 
-# Four month
+# Four month old
 <img src="https://user-images.githubusercontent.com/33362849/93036296-8388a680-f60d-11ea-9cf4-223a7976dd8e.jpg" width="40%">
 
 # Now
