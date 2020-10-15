@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently doing my fourth year at uoft.
+🔭 I’m a fourth year CS student at uoft.
 
-🌱 Doing my parttime intern at Watson Machine Learning@IBM
+🌱 Working parttime at Watson Machine Learning@IBM
 
 ⚡ Here is my cute cat *BAO*
 
