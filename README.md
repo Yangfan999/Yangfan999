@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m a fourth year CS student at uoft.
-
-🌱 Working parttime at Watson Machine Learning@IBM
-
-⚡ Here is my cute cat *BAO*
+⚡ Intruducing my cute cat *BAO*
 
 # Four month old
 <img src="https://user-images.githubusercontent.com/33362849/93036296-8388a680-f60d-11ea-9cf4-223a7976dd8e.jpg" width="40%">
