@@ -2,11 +2,11 @@
 
 ⚡ Intruducing my cute cat *BAO*
 
-# Four month old
-<img src="https://user-images.githubusercontent.com/33362849/93036296-8388a680-f60d-11ea-9cf4-223a7976dd8e.jpg" width="40%">
+# First day
+![79c8fd67800254230361ade0b26d8b2](https://user-images.githubusercontent.com/33362849/100534965-a37a4000-31e2-11eb-86b7-00f862fdcf1f.jpg)
 
 # Now
-<img src="https://user-images.githubusercontent.com/33362849/93036292-82577980-f60d-11ea-86b9-edfaf414570c.jpg" width="40%">
+![f29592851e29be06c3812921faf7a21](https://user-images.githubusercontent.com/33362849/100534967-a412d680-31e2-11eb-94a4-fc34fd5178e5.jpg)
 
 
 # Here are some of my favorite web sites.
@@ -36,7 +36,7 @@
 
 [UofT cs undergraduate TA application](https://taships.iit.artsci.utoronto.ca/csc/applications)
 
-### 撸毛
+### Others
 
 [加国理财](https://www.canadianrewards.org)
 
