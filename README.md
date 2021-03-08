@@ -8,6 +8,9 @@
 
 # Here are some of my favorite web sites.
 
+### Try mining?
+[NiceHash](https://www.nicehash.com)
+
 
 ### Utility
 
