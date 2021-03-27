@@ -9,6 +9,7 @@
 # Here are some of my favorite web sites.
 
 ### Try mining?
+[HiveOS](https://hiveos.farm)
 [NiceHash](https://www.nicehash.com)
 
 
