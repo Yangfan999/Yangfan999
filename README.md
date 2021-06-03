@@ -10,7 +10,10 @@
 
 ### Try mining?
 [HiveOS](https://hiveos.farm)
+
 [NiceHash](https://www.nicehash.com)
+
+[Chia](https://www.chia.net)
 
 
 ### Utility
