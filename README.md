@@ -1,6 +1,5 @@
 ### Hi there 👋
-![79c8fd67800254230361ade0b26d8b2](https://user-images.githubusercontent.com/33362849/100534965-a37a4000-31e2-11eb-86b7-00f862fdcf1f.jpg)|![f29592851e29be06c3812921faf7a21](https://user-images.githubusercontent.com/33362849/100534967-a412d680-31e2-11eb-94a4-fc34fd5178e5.jpg)
-
+ ![79c8fd67800254230361ade0b26d8b2](https://user-images.githubusercontent.com/33362849/100534965-a37a4000-31e2-11eb-86b7-00f862fdcf1f.jpg) ![f29592851e29be06c3812921faf7a21](https://user-images.githubusercontent.com/33362849/100534967-a412d680-31e2-11eb-94a4-fc34fd5178e5.jpg)
 
 # Here are some of my favorite web sites.
 
