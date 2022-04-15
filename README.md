@@ -8,7 +8,7 @@
 
 [Chia](https://www.chia.net)
 
-
+[My favoriate Token](https://confluxnetwork.org/en/)
 ### Utility
 
 [Check your password](https://haveibeenpwned.com)
